@@ -2,4 +2,4 @@
 
 ###install 
 
-composer require alisoft/mms-sdk
+composer require alisoft/php-mns
