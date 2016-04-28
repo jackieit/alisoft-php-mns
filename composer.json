@@ -1,0 +1,22 @@
+{
+    "name": "alisoft/php-mns",
+    "description": "阿里云 mms SDK PHP",
+    "keywords":["mms","phpsdk","jackeit"],
+    "authors": [
+        {
+            "name": "jackieit",
+			"email": "wfits@126.com"
+        }
+    ],
+    "require":{
+	    "php": ">=5.3.0",
+	    "guzzlehttp/guzzle": "~6.1",
+	    "psr/http-message":"*"
+    },
+    "minimum-stability" : "dev",
+    "autoload": {
+        "files": [
+            "mns-autoloader.php"
+        ]
+    }
+}
